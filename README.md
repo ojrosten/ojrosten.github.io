@@ -1,3 +1,4 @@
 # ojrosten.github.io
 
-The documentation for sequoia can be found here.
+The documentation for sequoia can be found
+<a href="https://github.com/ojrosten/sequoia/tree/master/Documentation/html">here</a>.
